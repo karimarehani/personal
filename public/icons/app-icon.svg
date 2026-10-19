@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#014A91"/>
+  <path d="M126 146h260v220H126z" fill="none" stroke="#fff" stroke-width="7" rx="20"/>
+  <g fill="#fff" font-family="sans-serif" text-anchor="middle" font-weight="700">
+    <text x="256" y="282" font-size="114">BC</text>
+    <text x="256" y="329" font-size="23" letter-spacing="4">BLUE CHILI</text>
+  </g>
+</svg>
